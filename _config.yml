@@ -1,11 +1,11 @@
 # Site settings
 author: Gitanjali Mule
-title: 
+title: Gitanjali M Blog
 header-img: img/home-bg.png
 email: gitanjalidmule@gmail.com
 copyright_name: Gitanjali Mule
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A coding blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gd-m
